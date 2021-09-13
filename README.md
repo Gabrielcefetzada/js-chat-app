@@ -4,6 +4,6 @@
 Web sockets give to us the oportunity of making real time and fast connections between client and server, but with a
 easy way.
 
-<img src="./demo/demo.gif" style="width: 900px; height: 400px"/>
+<img src="./demo/demo.gif" style="width: 800px; height: 400px"/>
 
 
